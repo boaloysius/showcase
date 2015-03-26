@@ -1,0 +1,1 @@
+This project was developed during my course "PHP Beyond The Basics" from Lynda.com.
